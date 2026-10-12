@@ -6,8 +6,8 @@
 
 Windows 10 / 11 · .NET Framework 4.8 · 中文界面 · 源码与构建脚本已提供
 
-<p align="center"><img src="docs/screenshot-light.jpg" alt="墨读 Markdown 浅色主题：大纲导航、代码块、嵌套引用与提示块" width="960"></p>
-<p align="center"><sub>浅色主题 · 大纲与阅读区 · 软件界面截图</sub></p>
+<p align="center"><img src="docs/screenshot-light.png" alt="墨读 Markdown 浅色主题：大纲导航、阅读预览与科研公式" width="960"></p>
+<p align="center"><sub>浅色主题 · 阅读与科研公式 · 点击图片查看清晰原图</sub></p>
 
 ## 2.1 更新
 
@@ -35,7 +35,7 @@ Windows 10 / 11 · .NET Framework 4.8 · 中文界面 · 源码与构建脚本�
 <details>
 <summary><b>查看深色主题与公式排版截图</b></summary>
 
-<p align="center"><img src="docs/screenshot-dark.jpg" alt="墨读 Markdown 深色主题：二次方程、求和及高斯积分公式" width="960"></p>
+<p align="center"><img src="docs/screenshot-dark.png" alt="墨读 Markdown 深色主题：阅读预览、化学式与高斯积分" width="960"></p>
 
 </details>
 
